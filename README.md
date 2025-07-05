@@ -4,7 +4,7 @@ Este é um projeto simples em HTML, CSS e JavaScript que exibe uma mensagem din�
 
 ## 🖼️ Exemplo do Projeto
 
-![Hora do Dia](https://i.imgur.com/yGBYPeL.png)
+![Hora do Dia](https://i.imgur.com/Hv4SJ6u.png)
 
 ## 💡 Funcionalidades
 
